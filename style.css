@@ -1,0 +1,126 @@
+.emon img{
+    width: 50px;
+}
+.crd{
+    width: 200px;
+    height: 200px;
+    padding-top: 30px;
+    border-radius: 10px;
+    background-color: ghostwhite;
+}
+.crd-body{
+    text-align: center;
+}
+#special-crd{
+    background-color: white;
+    box-shadow: 10px 10px 20px  lightgray;
+}
+
+.top-sec{
+    background-color: #F0FFF0;
+    
+
+}
+section{
+    margin-bottom: 73px;
+}
+.reall{
+    margin-bottom: 60px;
+}
+
+.logos{
+    width: 198px;
+    height: 60px;
+}
+
+
+.highlight{
+    color: #21B573;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+#p-colo{
+    color: red;
+}
+.topbtn{
+    background-color: #21B573;
+    color: #ffffff;
+    border: none;
+    border-radius: 25px;
+    bo
+    padding: 1% 4%;
+}
+.btn{
+    background-color: #21B573;
+    color: #ffffff;
+    border-radius: 33px;
+    padding: 1% 7%;
+}
+.line-height{
+    line-height: 36px;
+}
+
+.top-image{
+     width: 95%;}
+
+.card{
+    padding: 20px 20px 0px 20px;
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+
+.cardfooter img{
+    width: 20px;
+    height: 20px;
+}
+.card-footer i img{
+    width: 20px;
+}
+.card-footer p{
+    color: #585859;
+    margin-left: 3px;
+    
+}
+.cardfooter{
+    background-color: white;
+    border-top: 10px white;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card-footer{
+    font-weight: 500;
+    color: #585859;
+}
+.foter-text{
+    margin-left: auto;
+}
+.last-sec{
+    height: 369px;
+background-color: #282531;
+}
+
+.lastpart li {
+    list-style: none;
+    
+}
+.lastpart li a, .lastpart p, .lastpart b {
+    color: white;
+    text-decoration: none
+}
+
+.lasting{
+    padding-top: 80px;
+}
+footer{
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+}
